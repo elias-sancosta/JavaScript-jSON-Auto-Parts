@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "nom": "Ampoule LED",
+    "prix": 60,
+    "categorie": "Optiques",
+    "image": "images/ampoule-led.png",
+    "description": "Distance d'éclairage : 100 mètres !",
+    "disponibilite": true
+  },
+  {
+    "id": 2,
+    "nom": "Plaquettes de frein (x4)",
+    "prix": 40,
+    "categorie": "Freinage",
+    "image": "images/plaquettes-frein.png",
+    "description": "Une qualité de freinage optimale, par tous les temps.",
+    "disponibilite": true
+  },
+  {
+    "id": 3,
+    "nom": "Ampoule boîte à gants",
+    "prix": 5.49,
+    "categorie": "Optiques",
+    "image": "images/ampoule-boite-a-gants.png",
+    "description": "Pour y voir clair dans l'habitacle.",
+    "disponibilite": false
+  },
+  {
+    "id": 4,
+    "nom": "Liquide de frein",
+    "prix": 9.6,
+    "categorie": "Freinage",
+    "image": "images/liquide-frein.png",
+    "disponibilite": true
+  },
+  {
+    "id": 5,
+    "nom": "Balai d'essuie-glace",
+    "prix": 29.1,
+    "image": "images/balai-essuie-glace.png",
+    "description": "Performances d'essuyage au top ! Longueur : 550 mm.",
+    "disponibilite": true
+  },
+  {
+    "id": 6,
+    "nom": "Vue arrière",
+    "prix": 44.4,
+    "image": "images/vue_arriere.png",
+    "description": "Vue arrière de voiture avec large vision de 120°.",
+    "disponibilite": false
+  },
+  {
+    "id": 7,
+    "nom": "Feux arrière",
+    "prix": 41.1,
+    "image": "images/feux_arriere.jpg",
+    "description": "Elles produisent une lumière super brillante et confortable.",
+    "disponibilite": true
+  },
+  {
+    "id": 8,
+    "nom": "Bougies d'allumage",
+    "prix": 41.1,
+    "image": "images/bougies_voiture.jpg",
+    "description": "Grande fiabilité : excellent comportement lors du démarrage à froid.",
+    "disponibilite": true
+  }
+]
